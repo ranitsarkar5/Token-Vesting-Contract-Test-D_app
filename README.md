@@ -61,7 +61,7 @@ This contract implements 3 meaningful tests (found in `contracts/crowdfund/src/t
 3. **Interaction Test**: Emulates a full lifecycle (Init -> Meet Goal -> Withdraw).
 
 ## 🔗 Links
-- **Live Demo**: `[Insert Vercel Link Here]`
+app link: https://token-vesting-contract-test-d-iqz0pwss9-ranit-sarkars-projects.vercel.app/
 - **Video Walkthrough**: `[Insert Video URL Here]`
 
 ## 📸 Screenshot Placeholder
