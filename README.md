@@ -65,4 +65,4 @@ This contract implements 3 meaningful tests (found in `contracts/crowdfund/src/t
 - **Video Walkthrough**: `[Insert Video URL Here]`
 
 ## 📸 Screenshot Placeholder
-`![Screenshot](placeholder)`
+<img width="815" height="822" alt="Screenshot 2026-04-24 025408" src="https://github.com/user-attachments/assets/72fc8fb0-fb38-4761-9a14-1b3abaef300e" />
