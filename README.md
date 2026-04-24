@@ -48,11 +48,7 @@ stellar contract deploy \
   --network testnet
 ```
 
-**Frontend (Vercel):**
-1. Push your repository to GitHub.
-2. Sign in to [Vercel](https://vercel.com/) and click "Add New Project".
-3. Import your GitHub repository, set the root directory to `frontend`, and keep the default Vite build settings.
-4. Click "Deploy". Your frontend is live!
+
 
 ## 🧪 Test Instructions
 This contract implements 3 meaningful tests (found in `contracts/crowdfund/src/test.rs`):
